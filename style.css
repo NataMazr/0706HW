@@ -1,0 +1,10 @@
+body div {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  border-radius: 50%;
+  background: green;
+}
+/*# sourceMappingURL=style.css.map */

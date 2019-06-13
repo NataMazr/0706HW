@@ -1,11 +1,16 @@
     body {
-        div {
-            width: 200px;
-            height: 200px;
-            position: absolute;
-            left: 50px;
-            top: 50px;
-            border-radius: 50%;
-            background: green;
+        .sq {
+            width: 800px;
+            height: 550px;
+            border: 3px solid black;
+            .circ {
+                width: 200px;
+                height: 200px;
+                position: absolute;
+                left: 50px;
+                top: 50px;
+                border-radius: 50%;
+                background: green;
+            }
         }
     }
